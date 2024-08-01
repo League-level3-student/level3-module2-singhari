@@ -72,7 +72,7 @@ public class _00_SortingDemo {
          * from A to Z.
          * "a", "b", "c", "d", ...
          */
-        String[] arr3 = { "c", "e", "d", "f", "b", "a" };
+        String[] arr3 = { "c", "e", "d", "f", "B", "a" };
         
         for (int i = 0; i < arr3.length; i++) {
             for (int k = 0; k < arr3.length - 1; k++) {
